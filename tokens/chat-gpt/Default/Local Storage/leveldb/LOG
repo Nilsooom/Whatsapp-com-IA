@@ -1,0 +1,6 @@
+2023/01/31-15:44:03.065 3738 Reusing MANIFEST C:\Users\Nilson\Desktop\Projetinhos\zap-gpt\tokens\chat-gpt\Default\Local Storage\leveldb/MANIFEST-000001
+2023/01/31-15:44:03.112 3738 Recovering log #17
+2023/01/31-15:44:03.132 3738 Reusing old log C:\Users\Nilson\Desktop\Projetinhos\zap-gpt\tokens\chat-gpt\Default\Local Storage\leveldb/000017.log 
+2023/01/31-20:04:48.715 5d4c Level-0 table #21: started
+2023/01/31-20:04:48.773 5d4c Level-0 table #21: 9732 bytes OK
+2023/01/31-20:04:48.803 5d4c Delete type=0 #17
